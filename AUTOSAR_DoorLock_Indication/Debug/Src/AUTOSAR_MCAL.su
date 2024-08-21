@@ -1,0 +1,2 @@
+../Src/AUTOSAR_MCAL.c:14:6:Dio_ReadChannel	24	static
+../Src/AUTOSAR_MCAL.c:23:6:Dio_WriteChannel	16	static
